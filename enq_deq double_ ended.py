@@ -1,4 +1,4 @@
-print('welcome to queue')
+print('welcome to doublequeue')
 l=[]
 while True:
     print('please select the operation you want to use\n1.enque 2.deque 3.size of stack 4.emptiness 5.exit')
